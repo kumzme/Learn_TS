@@ -1,0 +1,26 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Run_Index": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/faker": "^4.1.12",
+    "@types/googlemaps": "^3.39.11",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0",
+    "g": "^2.0.1",
+    "parcel-bundler": "^1.12.4",
+    "ts-node": "^8.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.26",
+    "typescript": "^3.9.7"
+  }
+}
